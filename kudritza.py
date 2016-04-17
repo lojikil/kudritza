@@ -41,7 +41,7 @@ import sys
 # into that one too much; if I break scoping rules somewhere, I'm
 # ok with that. Makes the CTF more fun ;)
 
-# Update: named it Къдрица, or "Curl"
+# Update: named it kudrtiza, or "Curl"
 
 
 class KudritzaTypeClash(Exception):
