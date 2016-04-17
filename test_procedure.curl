@@ -1,0 +1,8 @@
+{progn
+    {define state {fn {x} {fn {y} {set! x {+ :x :y}} :x}}}
+    {define h {:state 10}}
+    {define g {:state 15}}
+    {echo {:g 10}}
+    {echo {:h 2}}
+    {echo {:g 0}}
+    {echo {:h 0}}}
