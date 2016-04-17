@@ -21,7 +21,7 @@ following files:
 # Language background:
 
 The language is meant to be a heady mix of [Curl](https://en.wikipedia.org/wiki/Curl_\(programming_language\)) and 
-[Logo](https://en.wikipedia.org/wiki/Logo_(programming_language\)), with a bit of Scheme here & there. Some Examples:
+[Logo](https://en.wikipedia.org/wiki/Logo_\(programming_language\)), with a bit of Scheme here & there. Some Examples:
 
 1. `{define x 10}` defines a variable.
 2. `{+ :x 10}` adds 10 to the value (`:`) of `x`.
