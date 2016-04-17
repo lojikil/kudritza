@@ -4,7 +4,7 @@ In 2014, a colleague and I ran a CTF at the company I was working at. In order t
 our ability to run the game) have Remote Code Execution (RCE), I decided to write a _very_ simple programming language.
 This language was meant to be:
 
-- Simple to implemented: I didn't want to spend more than 8 hours on it.
+- Simple to implement: I didn't want to spend more than 8 hours on it.
 - Simple to understand: I didn't want anyone spending more than 20 minutes trying to figure it out.
 - Terrible: it's no fun to implement for a CTF that works perfectly.
 
